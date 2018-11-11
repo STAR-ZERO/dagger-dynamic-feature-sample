@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleDynamicFeature</string>
+    <string name="module_include_feature">include_feature</string>
+    <string name="module_ondemand_feautre">ondemand_feautre</string>
+    <string name="title_feature_one">Feature One</string>
+    <string name="title_feature_two">Feature Two</string>
+</resources>
